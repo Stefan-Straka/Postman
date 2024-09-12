@@ -6,14 +6,12 @@ Postman collections and enviroments with requests testing process of booking res
 
 
 
-## Table of content
-
-- [Project Overview](#project Overview)
-- [Instalation](#instalation)
-- [Documentation](#dcumentation)
-- [Project Overview](#Project Overview)
-- [Usage/Examples](#Usage/Examples)
-- [Contact](#Contact)
+## :bulb: Table of content
+- [Project Overview](#-project-overview)
+- [Instalation](#-instalation)
+- [Usage](#-usage)
+- [Documentation](#-dcumentation)
+- [Contact](#-contact)
 ## 📖 Project Overview
 
 - POST - Create token
@@ -27,6 +25,13 @@ Postman collections and enviroments with requests testing process of booking res
 - PATCH - partial update booking
 - DEL - delete booking
 ## ⚙️ Installation
+#### 1. Prerequisites
+Download Postman and installit on your system.
+[Postman download link](https://www.postman.com/downloads/)
+You can use also web version of Postman
+#### 2. Importing Postman Collections
+
+
 
 Install my-project with npm
 
@@ -36,7 +41,7 @@ Install my-project with npm
   cd my-project
 ```
     
-## 📝Usage/Examples
+## 📝Usage
 
 ```javascript
 import Component from 'my-project'
@@ -58,3 +63,14 @@ function App() {
 
 ## 🗨️ Contact
 email: stefanstraka2424@gmail.com
+
+<details>
+  <summary>🚀 Performance</summary>
+  
+  - **Async Projections**
+  - **Snapshotting**
+  - **Minimize Exceptions**
+  - **Pool HTTP connections with HttpClientFactory**
+  - **DbContext Pooling**
+
+</details>
