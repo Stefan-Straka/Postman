@@ -30,6 +30,7 @@ Download Postman and installit on your system.
 [Postman download link](https://www.postman.com/downloads/)
 You can use also web version of Postman
 #### 2. Importing Postman Collections
+![obrazok](https://github.com/Stefan-Straka/Postman2/blob/main/Screenshots/GithubObr.png)
 
 
 
