@@ -8,10 +8,10 @@ Postman collections and enviroments with requests testing process of booking res
 
 ## :bulb: Table of content
 - [Project Overview](#-project-overview)
-- [Installation](#-installation)
+- [Installation](#⚙️-installation)
 - [Usage](#-usage)
 - [Documentation](#-documentation)
-- [Contact](#-contact)
+- [Contact](#🗨️-contact)
 ## 📖 Project Overview
 
 - POST - Create token
