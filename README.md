@@ -25,11 +25,12 @@ Postman collections and enviroments with requests testing process of booking res
 - PATCH - partial update booking
 - DEL - delete booking
 ## ⚙️ Installation
-#### 1. Prerequisites
-Download Postman and installit on your system.
-[Postman download link](https://www.postman.com/downloads/)
-You can use also web version of Postman
-#### 2. Importing Postman Collections
+### 1. Prerequisites
+Download Postman and install it on your system.  
+[Postman download link](https://www.postman.com/downloads/)  
+You can use also web version of Postman.
+### 2. Importing Postman Collections
+Open Postman and on the left side click on import and you can import collections and enviroments  
 ![obrazok](https://github.com/Stefan-Straka/Postman2/blob/main/Screenshots/GithubObr.png)
 
 
@@ -43,6 +44,8 @@ Install my-project with npm
 ```
     
 ## 📝 Usage
+On the right side of the collection are 3 dots, click on them and select run collection.  
+Click on the Run button.  
 
 ```javascript
 import Component from 'my-project'
