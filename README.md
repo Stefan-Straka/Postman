@@ -8,10 +8,10 @@ Postman collections and enviroments with requests testing process of booking res
 
 ## :bulb: Table of content
 - [Project Overview](#-project-overview)
-- [Installation](#⚙️-installation)
+- [Installation](#️-installation)
 - [Usage](#-usage)
 - [Documentation](#-documentation)
-- [Contact](#🗨️-contact)
+- [Contact](#️-contact)
 ## 📖 Project Overview
 
 - POST - Create token
@@ -56,12 +56,6 @@ function App() {
 ## 📚 Documentation
 
 [API Documentation used in the project](https://restful-booker.herokuapp.com/apidoc/index.html)
-
-
-
-
-
-
 ## 🗨️ Contact
 email: stefanstraka2424@gmail.com
 
