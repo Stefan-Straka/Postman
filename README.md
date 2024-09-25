@@ -8,7 +8,7 @@ Postman collections and enviroments with requests testing process of booking res
 
 ## :bulb: Table of content
 - [Project Overview](#-project-overview)
-- [Instalation](#-instalation)
+- [Instalation](#-installation)
 - [Usage](#-usage)
 - [Documentation](#-documentation)
 - [Contact](#-contact)
