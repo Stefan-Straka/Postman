@@ -10,7 +10,7 @@ Postman collections and enviroments with requests testing process of booking res
 - [Project Overview](#-project-overview)
 - [Instalation](#-instalation)
 - [Usage](#-usage)
-- [Documentation](#-dcumentation)
+- [Documentation](#-documentation)
 - [Contact](#-contact)
 ## 📖 Project Overview
 
@@ -42,7 +42,7 @@ Install my-project with npm
   cd my-project
 ```
     
-## 📝Usage
+## 📝 Usage
 
 ```javascript
 import Component from 'my-project'
